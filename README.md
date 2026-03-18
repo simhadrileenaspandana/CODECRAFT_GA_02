@@ -1,5 +1,5 @@
 # Image Generation using Stable Diffusion
-
+Project view in colab:https://colab.research.google.com/drive/1fARUr2qXCG09een3PYkApulUkpJ63O4x?usp=sharing
 ## Project Overview
 
 This project demonstrates how to generate images from text prompts using the Stable Diffusion model.
