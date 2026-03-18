@@ -30,5 +30,5 @@ Stable Diffusion (runwayml/stable-diffusion-v1-5)
 
 ## Author
 
-Leena Leo
+Leena Spandana Simhadr
 Generative AI Intern
